@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 import SignInButton from "./SignInButton/index";
 import styles from "./styles.module.scss";
 export default function Header() {
